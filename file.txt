@@ -1,6 +1,1 @@
 <<<<<<< HEAD
-hi..hello
-sare
-=======
-hi.
->>>>>>> 030ba4f4e9c95acf54dc002558e918dd5dc08ae3
